@@ -144,6 +144,3 @@ Credit-Card-Fraud-Detection/
 
 Data Science | Python | Machine Learning | Power BI
 
-## ⚠️ Disclaimer
-
-This project is developed for educational and portfolio purposes. The model is an analytical prototype and is not intended for direct deployment in real-world financial transaction systems.
